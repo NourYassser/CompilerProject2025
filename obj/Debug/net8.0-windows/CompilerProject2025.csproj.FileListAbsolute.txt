@@ -1,0 +1,16 @@
+C:\Users\nour_\source\repos\CompilerProject2025\bin\Debug\net8.0-windows\CompilerProject2025.exe
+C:\Users\nour_\source\repos\CompilerProject2025\bin\Debug\net8.0-windows\CompilerProject2025.deps.json
+C:\Users\nour_\source\repos\CompilerProject2025\bin\Debug\net8.0-windows\CompilerProject2025.runtimeconfig.json
+C:\Users\nour_\source\repos\CompilerProject2025\bin\Debug\net8.0-windows\CompilerProject2025.dll
+C:\Users\nour_\source\repos\CompilerProject2025\bin\Debug\net8.0-windows\CompilerProject2025.pdb
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.Form1.resources
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.csproj.GenerateResource.cache
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.AssemblyInfoInputs.cache
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.AssemblyInfo.cs
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.csproj.CoreCompileInputs.cache
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.dll
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\refint\CompilerProject2025.dll
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.pdb
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\CompilerProject2025.genruntimeconfig.cache
+C:\Users\nour_\source\repos\CompilerProject2025\obj\Debug\net8.0-windows\ref\CompilerProject2025.dll
